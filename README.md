@@ -1,5 +1,3 @@
-# WaterLevel_Monitoring
-
 #include <NewPing.h> 
 
 #define I2C_ADDR    0x27  
@@ -37,3 +35,4 @@ void loop() {
         }
     }
 }
+
